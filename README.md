@@ -1,8 +1,8 @@
 # Overview
 My first three beginner level Python projects posted on Github. The three programs are:
-*A simple Bank Account
-*A simple Currency Converter
-*A simple Mad Lib
+* A simple Bank Account
+* A simple Currency Converter
+* A simple Mad Lib
 
 
 # Development Environment
