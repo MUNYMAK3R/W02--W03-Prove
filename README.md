@@ -14,11 +14,11 @@ My first three beginner level Python projects posted on Github. The three progra
 
 To execute the Bank Account program: `python Bank_Account.py`
 
-![Program screenshot showing the Bank Account program running](Bank_account.png)
+![Program screenshot showing the Bank Account program running](Bank_account.PNG)
 
 To execute the Currency Converter program: `python Currency_converter.py`
 
-![Program screenshot showing the Currency Converter program running](Currency_converter.png)
+![Program screenshot showing the Currency Converter program running](Currency_converter.PNG)
 
 To execute the Mad Lib program: `python Mad_lib.py`
 
